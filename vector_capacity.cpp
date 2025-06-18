@@ -6,6 +6,14 @@ int main() {
     cout << v.capacity() << endl;
     v.push_back(10);
     cout << v.capacity() << endl;
+    v.push_back(10);
+    cout << v.capacity() << endl;
+    v.push_back(10);
+    cout << v.capacity() << endl;
+    v.push_back(10);
+    cout << v.capacity() << endl;
+    v.push_back(10);
+    cout << v.capacity() << endl;
 
     return 0;
 }
