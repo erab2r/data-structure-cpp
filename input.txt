@@ -1,7 +1,3 @@
-6
-Israt era
-habib ullah
-shk sayed
-shk saif
-md ali
-nahida ruma
+2
+1 2
+3 4

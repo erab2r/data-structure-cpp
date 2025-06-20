@@ -13,5 +13,6 @@ int main() {
     for(string s : v){
         cout << s << endl;
     }
+ 
     return 0;
 }
