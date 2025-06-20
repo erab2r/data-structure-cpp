@@ -10,7 +10,6 @@ vector<int>concatenateArrays(const vector<int>&a, const vector<int>&b){
     }
     return c;
 }
-
 int main() {
     int n;
     cin >> n;
